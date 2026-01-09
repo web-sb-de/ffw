@@ -18,15 +18,6 @@ sitemap:
     alt="Beispielbild"
   />
 
-  <script>
-    window.onload = () => {
-      document.querySelectorAll("img[data-src]").forEach((img) => {
-        img.src = img.dataset.src;
-        img.onload = () => (img.style.filter = "blur(0)");
-      });
-    };
-  </script>
-
   <div class="hero-overlay" style="background: radial-gradient(#00000055 50%, transparent)"></div>
   <h1>Musterverein Musterstadt e.V.</h1>
   <h2>Lorem ipsum dolor sit amet</h2>
@@ -37,3 +28,73 @@ sitemap:
   </div>
   <a href="/kontakt/" class="btn" aria-label="Kontakt aufnehmen" title="Kontakt aufnehmen">{{< icon "contact" >}} Kontakt aufnehmen</a>
 </section>
+
+<section id="ueber-uns" class="flex-col">
+  <div class="img-container">
+    <img
+      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
+      data-src="https://picsum.photos/300/300?random=1"
+      alt="Titelbild"
+      loading="lazy"
+    />
+  </div>
+  <div>
+    <h2>flex-col mit wenig Text</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <a href="/termin/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
+  </div>
+</section>
+
+<section class="flex-col-reverse">
+  <div class="img-container">
+    <img
+      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
+      data-src="https://picsum.photos/400/300?random=1"
+      alt="Titelbild"
+      loading="lazy"
+    />
+  </div>
+  <div>
+    <h2>flex-col-reverse mit viel Text</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+      nisi ut aliquip ex ea commodo consequat.
+    </p>
+    <p>
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+      anim id est laborum.
+    </p>
+    <p>
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+      dicta sunt explicabo.
+    </p>
+    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+    <a href="/termin/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
+  </div>
+</section>
+
+<section class="flex-col">
+  <div class="img-container">
+    <img
+      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
+      data-src="https://picsum.photos/300/400?random=1"
+      alt="Titelbild"
+      loading="lazy"
+    />
+  </div>
+  <div>
+    <h2>flex-col mit mittel Text</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h3>Werde Teil unseres Teams</h3>
+    <a href="/kontakt/" class="btn">{{< icon "contact" >}} Kontakt</a>
+  </div>
+</section>
+
+<script>
+  window.onload = () => {
+    document.querySelectorAll("img[data-src]").forEach((img) => {
+      img.src = img.dataset.src;
+    });
+  };
+</script>
