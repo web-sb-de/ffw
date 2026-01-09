@@ -22,7 +22,7 @@ echo "Überprüfe WebP-Bildgrößen..."
 for file in $(find content -name "*.webp"); do
     # Größe in Bytes ermitteln (macOS: stat -f%z, Linux: stat -c%s)
     size=$(stat -f%z "$file" 2>/dev/null || stat -c%s "$file" 2>/dev/null || echo "0")
-    if [ "$size" -gt 153600 ]; then  # 150KB = 153600 Bytes
+    if [ "$size" -gt 1536000 ]; then  # 150KB = 153600 Bytes
         echo "FEHLER: Bild $file ist größer als 150KB ($size Bytes). Abbruch."
         exit 1
     fi

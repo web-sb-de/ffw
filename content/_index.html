@@ -10,7 +10,22 @@ sitemap:
 ---
 
 <section class="hero-section">
-  <img class="hero-img" src="/cover.webp" alt="Hero Bild" loading="lazy" />
+  <img
+    class="hero-img"
+    src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
+    data-src="/photo.webp"
+    loading="lazy"
+    alt="Beispielbild"
+  />
+
+  <script>
+    window.onload = () => {
+      document.querySelectorAll("img[data-src]").forEach((img) => {
+        img.src = img.dataset.src;
+        img.onload = () => (img.style.filter = "blur(0)");
+      });
+    };
+  </script>
 
   <div class="hero-overlay" style="background: radial-gradient(#00000055 50%, transparent)"></div>
   <h1>Musterverein Musterstadt e.V.</h1>
