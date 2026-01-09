@@ -43,7 +43,7 @@ hugo mod tidy
 
 # Schritt 6: Hugo Build
 echo "Führe Hugo Build aus..."
-hugo  --minify
+hugo
 
 echo "Deploy erfolgreich abgeschlossen!"
 
