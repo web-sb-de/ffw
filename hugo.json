@@ -19,7 +19,7 @@
   "params": {
     "logo": "/logo.webp",
     "icon": "/icon.webp",
-    "cover": "/logo.webp",
+    "cover": "/cover.webp",
     "colors": {
       "background": "#ffffff",
       "text": "#000000",

@@ -10,13 +10,7 @@ sitemap:
 ---
 
 <section class="hero-section">
-  <img
-    class="hero-img"
-    src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
-    data-src="/photo.webp"
-    loading="lazy"
-    alt="Beispielbild"
-  />
+  <img class="hero-img" src="/cover.webp" alt="Beispielbild" />
 
   <div class="hero-overlay" style="background: radial-gradient(#00000055 50%, transparent)"></div>
   <h1>Musterverein Musterstadt e.V.</h1>
@@ -31,12 +25,7 @@ sitemap:
 
 <section id="ueber-uns" class="flex-col">
   <div class="img-container">
-    <img
-      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
-      data-src="https://picsum.photos/300/300?random=1"
-      alt="Titelbild"
-      loading="lazy"
-    />
+    <img src="/cover.webp" alt="Titelbild" loading="lazy" />
   </div>
   <div>
     <h2>flex-col mit wenig Text</h2>
@@ -47,12 +36,7 @@ sitemap:
 
 <section class="flex-col-reverse">
   <div class="img-container">
-    <img
-      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
-      data-src="https://picsum.photos/400/300?random=1"
-      alt="Titelbild"
-      loading="lazy"
-    />
+    <img src="/photo.webp" alt="Titelbild" loading="lazy" />
   </div>
   <div>
     <h2>flex-col-reverse mit viel Text</h2>
@@ -72,29 +56,3 @@ sitemap:
     <a href="/termin/" class="btn">{{< icon "calendar" >}} Termin vereinbaren</a>
   </div>
 </section>
-
-<section class="flex-col">
-  <div class="img-container">
-    <img
-      src="data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKAAcAAgA0JYgCdAEWPVZrkIQA/pnzgIDN976H4+p4Vg/txLQg7PqXiYd8O63v/q5YU2CyoJM/H+vpdTB6ju5066RHzWzXpSN/LhyUPW/HO99L/xCR97f7CIVAAA=="
-      data-src="https://picsum.photos/300/400?random=1"
-      alt="Titelbild"
-      loading="lazy"
-    />
-  </div>
-  <div>
-    <h2>flex-col mit mittel Text</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <h3>Werde Teil unseres Teams</h3>
-    <a href="/kontakt/" class="btn">{{< icon "contact" >}} Kontakt</a>
-  </div>
-</section>
-
-<script>
-  window.onload = () => {
-    document.querySelectorAll("img[data-src]").forEach((img) => {
-      img.src = img.dataset.src;
-    });
-  };
-</script>
