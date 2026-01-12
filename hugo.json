@@ -1,7 +1,7 @@
 {
-  "baseURL": "https://web-sb.de",
+  "baseURL": "https://ffw.web-sb.de",
   "languageCode": "de-de",
-  "title": "WEB-SB - Professionelle, statische Webentwicklung",
+  "title": "Freiwillige Feuerwehr Schönburg Pocking",
   "minify": true,
   "enableRobotsTXT": true,
   "disableKinds": ["taxonomy", "term"],
@@ -23,35 +23,35 @@
     "colors": {
       "background": "#ffffff",
       "text": "#000000",
-      "surface": "#ebeeff",
-      "element_background": "#304ffe",
+      "surface": "#fff3f5",
+      "element_background": "#d32f2f",
       "element_text": "#ffffff"
     },
-    "description": "WEB-SB - Professionelle Webentwicklung für gemeinnützige Vereine. Minimalistische, ultraschnelle Websites mit Hugo.",
-    "author": "Sebastian Brunner",
+    "description": "Freiwillige Feuerwehr Schönburg Pocking - Ihr zuverlässiger Partner für Rettung und Brandschutz in der Region.",
+    "author": "Freiwillige Feuerwehr Schönburg",
     "seo": {
-      "keywords": "Webentwicklung, Hugo, semantisch, ultraschnell, Websites",
+      "keywords": "Feuerwehr, Schönburg, Pocking, Rettung, Brandschutz, Notfall, Feuerwehr Bayern",
       "robots": "index, follow",
       "google_site_verification": ""
     },
     "geo": {
-      "latitude": "48.3914854",
-      "longitude": "13.1294955",
+      "latitude": "48.3847932",
+      "longitude": "13.2620256",
       "region": "BY",
-      "placename": "Kößlarn"
+      "placename": "Pocking"
     },
     "business": {
-      "name": "WEB-SB",
+      "name": "Feuerwehr Schönburg",
       "image": "cover.webp",
       "address": {
-        "streetAddress": "Enthof 2",
-        "addressLocality": "Kößlarn",
-        "postalCode": "94149",
+        "streetAddress": "Schönburg 4a",
+        "addressLocality": "Pocking",
+        "postalCode": "94060",
         "addressCountry": "DE"
       },
       "telephone": "",
-      "url": "https://web-sb.de",
-      "email": "info@web-sb.de",
+      "url": "https://ffw.web-sb.de",
+      "email": "info@ffw.web-sb.de",
       "openingHours": [],
       "priceRange": ""
     }

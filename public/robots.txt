@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://web-sb.de//sitemap.xml
+Sitemap: https://ffw.web-sb.de//sitemap.xml
