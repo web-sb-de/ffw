@@ -16,6 +16,9 @@
       }
     }
   },
+  "frontmatter": {
+    "lastmod": ["lastmod", ":fileModTime", ":default"]
+  },
   "params": {
     "logo": "/logo.webp",
     "icon": "/icon.webp",

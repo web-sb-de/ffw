@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Freiwillige Feuerwehr Schönburg Pocking</title><link>https://ffw.web-sb.de/</link><description>Recent content in Startseite on Freiwillige Feuerwehr Schönburg Pocking</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://ffw.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Freiwillige Feuerwehr Schönburg Pocking</title><link>https://ffw.web-sb.de/</link><description>Recent content in Startseite on Freiwillige Feuerwehr Schönburg Pocking</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Tue, 13 Jan 2026 20:36:57 +0100</lastBuildDate><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://ffw.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
  &lt;div class="img-container"&gt;
  &lt;img src="https://ffw.web-sb.de/cover.webp" alt="Feuerwehr Schönburg" loading="lazy" /&gt;
  &lt;/div&gt;
@@ -221,7 +221,33 @@
  &lt;p&gt;
  Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
  angegebenen Kontaktwege an uns wenden.
- &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://ffw.web-sb.de/impressum/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/impressum/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Kontakt</title><link>https://ffw.web-sb.de/kontakt/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/kontakt/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Kontakt&lt;/h1&gt;
+ &lt;p&gt;
+ Notfall: 112&lt;br /&gt;
+ E-Mail: info@ffw.web-sb.de
+ &lt;/p&gt;
+ &lt;p&gt;Bei Notfällen wählen Sie bitte sofort die 112.&lt;/p&gt;
+ &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
+ &lt;a class="btn" href="tel:112" aria-label="Notruf"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"&gt;&lt;path d="M0 0h24v24H0V0z" fill="none"/&gt;&lt;path d="M19.23 15.26l-2.54-.29c-.61-.07-1.21.14-1.64.57l-1.84 1.84c-2.83-1.44-5.15-3.75-6.59-6.59l1.85-1.85c.43-.43.64-1.03.57-1.64l-.29-2.52c-.12-1.01-.97-1.77-1.99-1.77H5.03c-1.13 0-2.07.94-2 2.07.53 8.54 7.36 15.36 15.89 15.89 1.13.07 2.07-.87 2.07-2v-1.73c.01-1.01-.75-1.86-1.76-1.98z"/&gt;&lt;/svg&gt;
+ Notruf 112&lt;/a&gt;
+ &lt;a class="btn" href="mailto:info@ffw.web-sb.de" aria-label="E-Mail schreiben"&gt;
+
+
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/&gt;&lt;/svg&gt;
+ E-Mail schreiben&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+ &lt;h2&gt;Adresse&lt;/h2&gt;
+ &lt;p&gt;
+ Feuerwehr Schönburg&lt;br /&gt;
+ Schönburg 4a&lt;br /&gt;
+ 94060 Pocking
+ &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://ffw.web-sb.de/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/impressum/</guid><description>&lt;section&gt;
  &lt;h1&gt;Impressum&lt;/h1&gt;
  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
  &lt;p&gt;
@@ -250,30 +276,4 @@
 &lt;section&gt;
  &lt;h2&gt;Haftungsausschluss&lt;/h2&gt;
  &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;
- &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;</description></item><item><title>Kontakt</title><link>https://ffw.web-sb.de/kontakt/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/kontakt/</guid><description>&lt;section&gt;
- &lt;h1&gt;Kontakt&lt;/h1&gt;
- &lt;p&gt;
- Notfall: 112&lt;br /&gt;
- E-Mail: info@ffw.web-sb.de
- &lt;/p&gt;
- &lt;p&gt;Bei Notfällen wählen Sie bitte sofort die 112.&lt;/p&gt;
- &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
- &lt;a class="btn" href="tel:112" aria-label="Notruf"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"&gt;&lt;path d="M0 0h24v24H0V0z" fill="none"/&gt;&lt;path d="M19.23 15.26l-2.54-.29c-.61-.07-1.21.14-1.64.57l-1.84 1.84c-2.83-1.44-5.15-3.75-6.59-6.59l1.85-1.85c.43-.43.64-1.03.57-1.64l-.29-2.52c-.12-1.01-.97-1.77-1.99-1.77H5.03c-1.13 0-2.07.94-2 2.07.53 8.54 7.36 15.36 15.89 15.89 1.13.07 2.07-.87 2.07-2v-1.73c.01-1.01-.75-1.86-1.76-1.98z"/&gt;&lt;/svg&gt;
- Notruf 112&lt;/a&gt;
- &lt;a class="btn" href="mailto:info@ffw.web-sb.de" aria-label="E-Mail schreiben"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/&gt;&lt;/svg&gt;
- E-Mail schreiben&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
- &lt;h2&gt;Adresse&lt;/h2&gt;
- &lt;p&gt;
- Feuerwehr Schönburg&lt;br /&gt;
- Schönburg 4a&lt;br /&gt;
- 94060 Pocking
- &lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;</description></item></channel></rss>
