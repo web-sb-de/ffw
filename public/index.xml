@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Freiwillige Feuerwehr Schönburg Pocking</title><link>https://ffw.web-sb.de/</link><description>Recent content in Startseite on Freiwillige Feuerwehr Schönburg Pocking</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Tue, 13 Jan 2026 20:36:57 +0100</lastBuildDate><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://ffw.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Freiwillige Feuerwehr Schönburg Pocking</title><link>https://ffw.web-sb.de/</link><description>Recent content in Startseite on Freiwillige Feuerwehr Schönburg Pocking</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Wed, 14 Jan 2026 11:04:40 +0100</lastBuildDate><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>https://ffw.web-sb.de/verein/ueber-uns/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
  &lt;div class="img-container"&gt;
  &lt;img src="https://ffw.web-sb.de/cover.webp" alt="Feuerwehr Schönburg" loading="lazy" /&gt;
  &lt;/div&gt;
@@ -12,7 +12,7 @@
 
 &lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
  &lt;h2&gt;Bilder aus unserem Vereinsleben&lt;/h2&gt;
- &lt;p&gt;Ein kleiner Einblick in unsere Arbeit und Veranstaltungen.&lt;/p&gt;</description></item><item><title>Vorstandschaft</title><link>https://ffw.web-sb.de/verein/vorstand/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/vorstand/</guid><description>&lt;section&gt;
+ &lt;p&gt;Ein kleiner Einblick in unsere Arbeit und Veranstaltungen.&lt;/p&gt;</description></item><item><title>Vorstandschaft</title><link>https://ffw.web-sb.de/verein/vorstandschaft/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/vorstandschaft/</guid><description>&lt;section&gt;
  &lt;h1&gt;Vorstandschaft&lt;/h1&gt;
  &lt;div class="grid"&gt;
  &lt;div class="grid-item"&gt;
@@ -68,7 +68,7 @@
 
 &lt;section&gt;
  &lt;h3&gt;Weitere Funktionen&lt;/h3&gt;
- &lt;p&gt;Kassenprüfer: Lorem Ipsum, Dolor Sit&lt;/p&gt;</description></item><item><title>Chronik</title><link>https://ffw.web-sb.de/verein/chronik/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/chronik/</guid><description>&lt;section&gt;
+ &lt;p&gt;Kassenprüfer: Lorem Ipsum, Dolor Sit&lt;/p&gt;</description></item><item><title>Chronik</title><link>https://ffw.web-sb.de/verein/historie/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/historie/</guid><description>&lt;section&gt;
  &lt;h1&gt;Chronik der Feuerwehr Schönburg&lt;/h1&gt;
  &lt;p&gt;Hier finden Sie eine Übersicht über die wichtigsten Ereignisse in der Geschichte unserer Feuerwehr.&lt;/p&gt;
 &lt;/section&gt;
@@ -88,7 +88,7 @@
 &lt;section&gt;
  &lt;h2&gt;1980er Jahre&lt;/h2&gt;
  &lt;h3&gt;1985 – Neubau des Gerätehauses&lt;/h3&gt;
- &lt;p&gt;Das neue Gerätehaus in Schönburg 4a wurde errichtet, um bessere Bedingungen für die Einsatzkräfte zu schaffen.&lt;/p&gt;</description></item><item><title>Mitglied werden</title><link>https://ffw.web-sb.de/verein/mitglied-werden/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/mitglied-werden/</guid><description>&lt;section class="flex-col"&gt;
+ &lt;p&gt;Das neue Gerätehaus in Schönburg 4a wurde errichtet, um bessere Bedingungen für die Einsatzkräfte zu schaffen.&lt;/p&gt;</description></item><item><title>Mitglied werden</title><link>https://ffw.web-sb.de/verein/mitgliedschaft/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/verein/mitgliedschaft/</guid><description>&lt;section class="flex-col"&gt;
  &lt;div class="img-container"&gt;
  &lt;img src="https://ffw.web-sb.de/cover.webp" alt="Mitglieder der Feuerwehr" loading="lazy" /&gt;
  &lt;/div&gt;
@@ -107,7 +107,7 @@
 
 &lt;section&gt;
  &lt;h2&gt;Satzung und Beitritt&lt;/h2&gt;
- &lt;p&gt;Unsere Satzung regelt die Mitgliedschaft und Pflichten. Sie können sie hier herunterladen:&lt;/p&gt;</description></item><item><title>Jahresüberblick</title><link>https://ffw.web-sb.de/termine/jahresueberblick/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/termine/jahresueberblick/</guid><description>&lt;section&gt;
+ &lt;p&gt;Unsere Satzung regelt die Mitgliedschaft und Pflichten. Sie können sie hier herunterladen:&lt;/p&gt;</description></item><item><title>Jahresüberblick</title><link>https://ffw.web-sb.de/termine/uebersicht/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/termine/uebersicht/</guid><description>&lt;section&gt;
  &lt;h1&gt;Jahresüberblick 2026&lt;/h1&gt;
  &lt;p&gt;Hier ist eine Übersicht über die wichtigsten Termine im Jahr 2026. Alle Termine können sich ändern – bitte informieren Sie sich kurzfristig.&lt;/p&gt;
 &lt;/section&gt;
