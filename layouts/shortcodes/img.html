@@ -1,32 +1,18 @@
-{{ $src := .Get "src" }}
-{{ $width := .Get "width" | default "512x" }}
-{{ $quality := .Get "quality" | default "q80" }}
-{{ $alt := .Get "alt" }}
-{{ $class := .Get "class" }}
-{{ $style := .Get "style" }}
+{{ $src := .Get "src" }} {{ $width := .Get "width" | default "1024x" }} {{ $mobileWidth := .Get "mobileWidth" | default "640x" }} {{ $quality := .Get "quality" | default "q80" }} {{ $alt := .Get "alt"
+}} {{ $class := .Get "class" }} {{ $style := .Get "style" }} {{ $loading := .Get "loading" | default "lazy" }} {{/* Bild aus den Page Resources holen */}} {{ $img := .Page.Resources.Get $src }} {{ if
+$img }} {{/* 1. Varianten generieren */}} {{/* Desktop */}} {{ $desktopAvif := $img.Resize (printf "%s avif %s" $width $quality) }} {{ $desktopWebp := $img.Resize (printf "%s webp %s" $width $quality)
+}} {{/* Mobile */}} {{ $mobileAvif := $img.Resize (printf "%s avif %s" $mobileWidth $quality) }} {{ $mobileWebp := $img.Resize (printf "%s webp %s" $mobileWidth $quality) }} {{/* 2. Placeholder
+generieren */}} {{ $placeholder := $img.Resize "20x jpg q20" }} {{/* 3. Ausgabe mit Picture Tag */}}
 
-{{/* Bild aus den Page Resources holen */}}
-{{ $img := .Page.Resources.Get $src }}
+<img
+  class="{{ $class }}"
+  src="{{ $desktopWebp.Permalink }}"
+  alt="{{ $alt }}"
+  loading="{{ $loading }}"
+  style="aspect-ratio: {{ $desktopWebp.Width }} / {{ $desktopWebp.Height }}; background-image: url(data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}); background-size: cover; background-repeat: no-repeat; {{ $style | safeCSS }}"
+/>
 
-{{ if $img }}
-  {{/* 1. Hauptbild generieren (WebP, resized) */}}
-  {{ $options := printf "%s webp %s" $width $quality }}
-  {{ $resized := $img.Resize $options }}
-  
-  {{/* 2. Placeholder generieren (Mini-JPG für Base64) */}}
-  {{ $placeholder := $img.Resize "20x jpg q20" }}
-  
-  {{/* 3. Ausgabe mit Inline-Base64-Hintergrund */}}
-  <img 
-    class="{{ $class }}" 
-    src="{{ $resized.Permalink }}" 
-    alt="{{ $alt }}" 
-    width="{{ $resized.Width }}" 
-    height="{{ $resized.Height }}" 
-    loading="lazy"
-    style="background-image: url(data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}); background-size: cover; background-repeat: no-repeat; {{ $style | safeCSS }}"
-  />
 {{ else }}
-  <!-- Bild nicht gefunden: {{ $src }} -->
-   <img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="lazy" style="{{ $style | safeCSS }}" />
+<!-- Bild nicht gefunden: {{ $src }} -->
+<img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" style="{{ $style | safeCSS }}" />
 {{ end }}
