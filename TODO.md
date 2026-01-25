@@ -21,4 +21,4 @@
 - Anschrift vom Verein (Vereinshaus oder Vorstand)
 - Verantwortlicher
 - Telefonnummer?
-- Email?
+- Email
