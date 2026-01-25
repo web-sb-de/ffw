@@ -1,213 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Freiwillige Feuerwehr Schönburg Pocking</title><link>http://192.168.1.16:1313/</link><description>Recent content in Startseite on Freiwillige Feuerwehr Schönburg Pocking</description><generator>Hugo</generator><language>de-de</language><lastBuildDate>Wed, 14 Jan 2026 13:42:14 +0100</lastBuildDate><atom:link href="http://192.168.1.16:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Über uns</title><link>http://192.168.1.16:1313/verein/ueber-uns/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/verein/ueber-uns/</guid><description>&lt;section class="flex-col"&gt;
- &lt;div class="img-container"&gt;
- &lt;img src="http://192.168.1.16:1313/cover.webp" alt="Feuerwehr Schönburg" loading="lazy" /&gt;
- &lt;/div&gt;
- &lt;div&gt;
- &lt;h2&gt;Über uns&lt;/h2&gt;
- &lt;p&gt;Die Feuerwehr Schönburg besteht seit über 100 Jahren und ist ein wichtiger Bestandteil der Gemeinschaft in Pocking.&lt;/p&gt;
- &lt;p&gt;Wir haben etwa 50 aktive Mitglieder, die sich ehrenamtlich für den Brandschutz und die Rettung engagieren.&lt;/p&gt;
- &lt;p&gt;Unser Einsatzbereich umfasst die Region Pocking und angrenzende Gebiete, wo wir rund um die Uhr für Ihre Sicherheit sorgen.&lt;/p&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center"&gt;
- &lt;h2&gt;Bilder aus unserem Vereinsleben&lt;/h2&gt;
- &lt;p&gt;Ein kleiner Einblick in unsere Arbeit und Veranstaltungen.&lt;/p&gt;</description></item><item><title>Vorstandschaft</title><link>http://192.168.1.16:1313/verein/vorstandschaft/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/verein/vorstandschaft/</guid><description>&lt;section&gt;
- &lt;h1&gt;Vorstandschaft&lt;/h1&gt;
- &lt;div class="grid"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Start on Freiwillige Feuerwehr Schönburg e.V.</title><link>https://ffw.web-sb.de/</link><description>Recent content in Start on Freiwillige Feuerwehr Schönburg e.V.</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktive Mannschaft</title><link>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</guid><description/></item><item><title>Ausrüstung</title><link>https://ffw.web-sb.de/infos/ausruestung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/ausruestung/</guid><description/></item><item><title>Chronik</title><link>https://ffw.web-sb.de/infos/chronik/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/chronik/</guid><description/></item><item><title>Jugend</title><link>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</guid><description>&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/1024/1024?random=1" alt="Max Mustermann" /&gt;
- &lt;h3&gt;Max Mustermann&lt;/h3&gt;
- &lt;p&gt;Stellv. Kommandant&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567890&lt;/p&gt;
- &lt;p&gt;E-Mail: max.mustermann@example.com&lt;/p&gt;
+ &lt;img src="cover.webp" alt="Jugendfeuerwehr" title="Jugendfeuerwehr" class="img-gallery" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=2" alt="Anna Schmidt" /&gt;
- &lt;h3&gt;Anna Schmidt&lt;/h3&gt;
- &lt;p&gt;Atemschutzwart&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567891&lt;/p&gt;
- &lt;p&gt;E-Mail: anna.schmidt@example.com&lt;/p&gt;
+ &lt;h1&gt;Jugendfeuerwehr&lt;/h1&gt;
+ 
+ &lt;/div&gt;
+&lt;/section&gt;</description></item><item><title>Karten</title><link>https://ffw.web-sb.de/infos/karten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/karten/</guid><description>&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="schutzraum.webp" alt="Karten" title="Karten" class="img-gallery" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=3" alt="Peter Müller" /&gt;
- &lt;h3&gt;Peter Müller&lt;/h3&gt;
- &lt;p&gt;Jugendwart, Gruppenführer&lt;/p&gt;
- &lt;p&gt;E-Mail: peter.mueller@example.com&lt;/p&gt;
+ &lt;h1&gt;Karten&lt;/h1&gt;
+ &lt;p&gt;Hier findest du verschiedene Karten, die für unsere Feuerwehr relevant sind.&lt;/p&gt;
+ 
+ &lt;/div&gt;
+&lt;/section&gt;</description></item><item><title>Vorstandschaft</title><link>https://ffw.web-sb.de/infos/vorstandschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/vorstandschaft/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Vorstand&amp;shy;schaft&lt;/h1&gt;
+ &lt;div class="grid grid-sm grid-border"&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Markus Brunner&lt;/h3&gt;
+ &lt;p&gt;1. Vorstand&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Elke Dandl&lt;/h3&gt;
+ &lt;p&gt;2. Vorstand&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Wolfgang Winklhofer&lt;/h3&gt;
+ &lt;p&gt;Kassier&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Thomas Lachhammer&lt;/h3&gt;
+ &lt;p&gt;Schriftführer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Ricardo Stephan&lt;/h3&gt;
+ &lt;p&gt;1. Kommandant&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Stefan Loher&lt;/h3&gt;
+ &lt;p&gt;2. Kommandant&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Stephan Fuchs&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Magdalena Löw&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Andreas Köck&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Franz Löw&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Christian Dandl&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Franziska Rutzinger&lt;/h3&gt;
+ &lt;p&gt;Beisitzer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Georg Rutzinger jun.&lt;/h3&gt;
+ &lt;p&gt;Fahnenjunker&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Franz Löw jun.&lt;/h3&gt;
+ &lt;p&gt;Fahnenjunker&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Ludwig Mörtlbauer&lt;/h3&gt;
+ &lt;p&gt;Kassenprüfer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Rudolf Roßmayer&lt;/h3&gt;
+ &lt;p&gt;Kassenprüfer&lt;/p&gt;</description></item><item><title>Mitgliedschaft</title><link>https://ffw.web-sb.de/infos/mitgliedschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/mitgliedschaft/</guid><description>&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img src="mitglied-werden.webp" width="512x" alt="Mitglied werden" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=4" alt="Lisa Wagner" /&gt;
- &lt;h3&gt;Lisa Wagner&lt;/h3&gt;
- &lt;p&gt;Leitung Kinderfeuerwehr&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567892&lt;/p&gt;
- &lt;p&gt;E-Mail: lisa.wagner@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=5" alt="Thomas Becker" /&gt;
- &lt;h3&gt;Thomas Becker&lt;/h3&gt;
- &lt;p&gt;Stellv. Leitung Kinderfeuerwehr, Gruppenführerin&lt;/p&gt;
- &lt;p&gt;Telefon: +491234567893&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567894&lt;/p&gt;
- &lt;p&gt;E-Mail: thomas.becker@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=6" alt="Maria Fischer" /&gt;
- &lt;h3&gt;Maria Fischer&lt;/h3&gt;
- &lt;p&gt;Gerätewart&lt;/p&gt;
- &lt;p&gt;Telefon: +491234567895&lt;/p&gt;
- &lt;p&gt;Mobil: +491234567896&lt;/p&gt;
- &lt;p&gt;E-Mail: maria.fischer@example.com&lt;/p&gt;
- &lt;/div&gt;
- &lt;div class="grid-item"&gt;
- &lt;img src="https://picsum.photos/512/512?random=7" alt="Hans Weber" /&gt;
- &lt;h3&gt;Hans Weber&lt;/h3&gt;
- &lt;p&gt;Beisitzer, Gruppenführer&lt;/p&gt;
+ &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
+ &lt;p&gt;Interessiert an unserem Verein?&lt;/p&gt;
+ &lt;p&gt;Füllen Sie den Aufnahmeantrag aus und senden Sie ihn an die Vorstandschaft.&lt;/p&gt;
+ &lt;h2&gt;Aufnahmeantrag&lt;/h2&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a href="https://ffw.web-sb.de/download.pdf" target="_blank" class="btn" aria-label="Aktive Mannschaft" title="Aktive Mannschaft"&gt;&lt;i&gt;download&lt;/i&gt;Aktive Mannschaft&lt;/a&gt;
+ &lt;a href="https://ffw.web-sb.de/download.pdf" target="_blank" class="btn" aria-label="Jugend" title="Jugend"&gt;&lt;i&gt;download&lt;/i&gt;Jugend&lt;/a&gt;
+ &lt;a href="https://ffw.web-sb.de/download.pdf" target="_blank" class="btn" aria-label="Kinder" title="Kinder"&gt;&lt;i&gt;download&lt;/i&gt;Kinder&lt;/a&gt;
+ &lt;a href="https://ffw.web-sb.de/kontakt/" class="btn" aria-label="Kontakt" title="Kontakt"&gt;&lt;i&gt;contact&lt;/i&gt; Kontakt&lt;/a&gt;
  &lt;/div&gt;
  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h3&gt;Weitere Funktionen&lt;/h3&gt;
- &lt;p&gt;Kassenprüfer: Lorem Ipsum, Dolor Sit&lt;/p&gt;</description></item><item><title>Chronik</title><link>http://192.168.1.16:1313/verein/historie/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/verein/historie/</guid><description>&lt;section&gt;
- &lt;h1&gt;Chronik der Feuerwehr Schönburg&lt;/h1&gt;
- &lt;p&gt;Hier finden Sie eine Übersicht über die wichtigsten Ereignisse in der Geschichte unserer Feuerwehr.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;1920er Jahre&lt;/h2&gt;
- &lt;h3&gt;1925 – Gründung der Feuerwehr&lt;/h3&gt;
- &lt;p&gt;Die Feuerwehr Schönburg wurde im Jahr 1925 gegründet, um die Gemeinschaft vor Bränden und anderen Gefahren zu schützen.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;1950er Jahre&lt;/h2&gt;
- &lt;h3&gt;1950 – Erster Fahrzeugkauf&lt;/h3&gt;
- &lt;p&gt;Anschaffung des ersten Löschfahrzeugs, das den Einsatzbereich erweiterte.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;1980er Jahre&lt;/h2&gt;
- &lt;h3&gt;1985 – Neubau des Gerätehauses&lt;/h3&gt;
- &lt;p&gt;Das neue Gerätehaus in Schönburg 4a wurde errichtet, um bessere Bedingungen für die Einsatzkräfte zu schaffen.&lt;/p&gt;</description></item><item><title>Mitglied werden</title><link>http://192.168.1.16:1313/verein/mitgliedschaft/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/verein/mitgliedschaft/</guid><description>&lt;section class="flex-col"&gt;
- &lt;div class="img-container"&gt;
- &lt;img src="http://192.168.1.16:1313/cover.webp" alt="Mitglieder der Feuerwehr" loading="lazy" /&gt;
  &lt;/div&gt;
- &lt;div&gt;
- &lt;h2&gt;Mitglied werden&lt;/h2&gt;
- &lt;p&gt;Wir freuen uns über neue Mitglieder! Die Feuerwehr Schönburg bietet die Möglichkeit, sich ehrenamtlich für die Gemeinschaft einzusetzen.&lt;/p&gt;
- &lt;p&gt;Voraussetzungen: Mindestalter 16 Jahre, gesundheitliche Eignung, Bereitschaft zu Übungen und Einsätzen.&lt;/p&gt;
- &lt;p&gt;Bei Interesse kontaktieren Sie uns einfach – wir laden Sie zu einem Schnuppertag ein.&lt;/p&gt;
- &lt;a href="http://192.168.1.16:1313/kontakt/" class="btn"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/&gt;&lt;/svg&gt;
- Kontakt aufnehmen&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Satzung und Beitritt&lt;/h2&gt;
- &lt;p&gt;Unsere Satzung regelt die Mitgliedschaft und Pflichten. Sie können sie hier herunterladen:&lt;/p&gt;</description></item><item><title>Jahresüberblick</title><link>http://192.168.1.16:1313/termine/uebersicht/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/termine/uebersicht/</guid><description>&lt;section&gt;
- &lt;h1&gt;Jahresüberblick 2026&lt;/h1&gt;
- &lt;p&gt;Hier ist eine Übersicht über die wichtigsten Termine im Jahr 2026. Alle Termine können sich ändern – bitte informieren Sie sich kurzfristig.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Januar&lt;/h2&gt;
- &lt;h3&gt;15. Januar – Neujahrstreffen&lt;/h3&gt;
- &lt;p&gt;
- Ort: Gerätehaus&lt;br /&gt;
- Jahresauftakt mit Besprechung der Planungen.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;März&lt;/h2&gt;
- &lt;h3&gt;10. März – Jahreshauptversammlung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Feuerwehrhaus&lt;br /&gt;
- Wahl des Vorstands und Berichte.
- &lt;/p&gt;
- &lt;h3&gt;20. März – Winterübung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Übungsplatz&lt;br /&gt;
- Praktische Übung im Wintereinsatz.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Juni&lt;/h2&gt;
- &lt;h3&gt;15. Juni – Sommerfest&lt;/h3&gt;
- &lt;p&gt;
- Ort: Festplatz&lt;br /&gt;
- Gemeinsames Fest mit der Gemeinde.
- &lt;/p&gt;</description></item><item><title>Sommerfest</title><link>http://192.168.1.16:1313/termine/sommerfest/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/termine/sommerfest/</guid><description>&lt;section class="flex-col"&gt;
- &lt;div class="img-container"&gt;
- &lt;img src="http://192.168.1.16:1313/cover.webp" alt="Sommerfest der Feuerwehr" loading="lazy" /&gt;
- &lt;/div&gt;
- &lt;div&gt;
- &lt;h2&gt;Sommerfest 2026&lt;/h2&gt;
- &lt;p&gt;Jedes Jahr im Juni laden wir zum traditionellen Sommerfest ein. Es ist eine Gelegenheit, die Gemeinschaft zu feiern und Spenden für unsere Arbeit zu sammeln.&lt;/p&gt;
- &lt;p&gt;
- Datum: 15. Juni 2026&lt;br /&gt;
- Ort: Festplatz Pocking&lt;br /&gt;
- Beginn: 14:00 Uhr
- &lt;/p&gt;
- &lt;p&gt;Programm: Essen, Spiele für Kinder, Musik und Vorführungen der Feuerwehr.&lt;/p&gt;
- &lt;a href="http://192.168.1.16:1313/termine/jahresueberblick/" class="btn"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.1 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/&gt;&lt;/svg&gt;
- Alle Termine&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;</description></item><item><title>Übungen</title><link>http://192.168.1.16:1313/termine/uebungen/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/termine/uebungen/</guid><description>&lt;section&gt;
- &lt;h1&gt;Übungen&lt;/h1&gt;
- &lt;p&gt;Regelmäßige Übungen sind wichtig, um auf Einsätze vorbereitet zu sein. Hier finden Sie die Termine für 2026.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Januar&lt;/h2&gt;
- &lt;h3&gt;20. Januar – Grundausbildung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Gerätehaus&lt;br /&gt;
- Einführung in die Grundlagen des Brandschutzes.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Februar&lt;/h2&gt;
- &lt;h3&gt;15. Februar – Löschübung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Übungsplatz&lt;br /&gt;
- Praktische Übung mit dem Löschfahrzeug.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;März&lt;/h2&gt;
- &lt;h3&gt;10. März – Rettungsübung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Stadtpark&lt;br /&gt;
- Simulation von Rettungseinsätzen.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;April&lt;/h2&gt;
- &lt;h3&gt;5. April – Atemschutzübung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Gerätehaus&lt;br /&gt;
- Training mit Atemschutzgeräten.
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h2&gt;Mai&lt;/h2&gt;
- &lt;h3&gt;20. Mai – Großübung&lt;/h3&gt;
- &lt;p&gt;
- Ort: Industriegebiet&lt;br /&gt;
- Umfassende Übung mit mehreren Fahrzeugen.
- &lt;/p&gt;</description></item><item><title>Datenschutz</title><link>http://192.168.1.16:1313/datenschutz/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/datenschutz/</guid><description>&lt;section&gt;
+&lt;/section&gt;</description></item><item><title>Datenschutz</title><link>https://ffw.web-sb.de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/datenschutz/</guid><description>&lt;section&gt;
  &lt;h1&gt;Datenschutz&amp;shy;erklärung&lt;/h1&gt;
 
  &lt;p&gt;
@@ -221,53 +114,17 @@
  &lt;p&gt;
  Verantwortlich für die Datenverarbeitung auf dieser Website ist die im Impressum genannte natürliche oder juristische Person. Bei Fragen zum Datenschutz können Sie sich jederzeit über die dort
  angegebenen Kontaktwege an uns wenden.
- &lt;/p&gt;</description></item><item><title>Kontakt</title><link>http://192.168.1.16:1313/kontakt/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/kontakt/</guid><description>&lt;section&gt;
- &lt;h1&gt;Kontakt&lt;/h1&gt;
- &lt;p&gt;
- Notfall: 112&lt;br /&gt;
- E-Mail: info@ffw.web-sb.de
- &lt;/p&gt;
- &lt;p&gt;Bei Notfällen wählen Sie bitte sofort die 112.&lt;/p&gt;
- &lt;div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center"&gt;
- &lt;a class="btn" href="tel:112" aria-label="Notruf"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="currentColor"&gt;&lt;path d="M0 0h24v24H0V0z" fill="none"/&gt;&lt;path d="M19.23 15.26l-2.54-.29c-.61-.07-1.21.14-1.64.57l-1.84 1.84c-2.83-1.44-5.15-3.75-6.59-6.59l1.85-1.85c.43-.43.64-1.03.57-1.64l-.29-2.52c-.12-1.01-.97-1.77-1.99-1.77H5.03c-1.13 0-2.07.94-2 2.07.53 8.54 7.36 15.36 15.89 15.89 1.13.07 2.07-.87 2.07-2v-1.73c.01-1.01-.75-1.86-1.76-1.98z"/&gt;&lt;/svg&gt;
- Notruf 112&lt;/a&gt;
- &lt;a class="btn" href="mailto:info@ffw.web-sb.de" aria-label="E-Mail schreiben"&gt;
-
-
- &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24"&gt;&lt;path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/&gt;&lt;/svg&gt;
- E-Mail schreiben&lt;/a&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-&lt;section&gt;
- &lt;h2&gt;Adresse&lt;/h2&gt;
- &lt;p&gt;
- Feuerwehr Schönburg&lt;br /&gt;
- Schönburg 4a&lt;br /&gt;
- 94060 Pocking
- &lt;/p&gt;</description></item><item><title>Impressum</title><link>http://192.168.1.16:1313/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://192.168.1.16:1313/impressum/</guid><description>&lt;section&gt;
+ &lt;/p&gt;</description></item><item><title>Impressum</title><link>https://ffw.web-sb.de/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/impressum/</guid><description>&lt;section&gt;
  &lt;h1&gt;Impressum&lt;/h1&gt;
  &lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
  &lt;p&gt;
- Feuerwehr Schönburg&lt;br /&gt;
+ Freiwillige Feuerwehr Schönburg e.V.&lt;br /&gt;
  Schönburg 4a&lt;br /&gt;
  94060 Pocking
  &lt;/p&gt;
- &lt;h3&gt;Vertreten durch&lt;/h3&gt;
- &lt;p&gt;Vorstand der Feuerwehr Schönburg&lt;/p&gt;
- &lt;h3&gt;Kontakt&lt;/h3&gt;
+ &lt;h3&gt;Vertretungsberechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
  &lt;p&gt;
- Telefon: 112 (Notfall)&lt;br /&gt;
- E-Mail: info@ffw.web-sb.de
- &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
- &lt;h3&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h3&gt;
- &lt;p&gt;
- Vorstand der Feuerwehr Schönburg&lt;br /&gt;
+ Markus Franz Brunner, Vorstand&lt;br /&gt;
  Schönburg 4a&lt;br /&gt;
  94060 Pocking
  &lt;/p&gt;
@@ -276,4 +133,25 @@
 &lt;section&gt;
  &lt;h2&gt;Haftungsausschluss&lt;/h2&gt;
  &lt;h3&gt;Haftung für Inhalte&lt;/h3&gt;
- &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;
+ &lt;h3&gt;Haftung für Links&lt;/h3&gt;
+ &lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.&lt;/p&gt;</description></item><item><title>Kontakt</title><link>https://ffw.web-sb.de/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/kontakt/</guid><description>&lt;section&gt;
+ &lt;h1&gt;Kontakt&lt;/h1&gt;
+ &lt;p&gt;
+ Telefon: +49 123 456789&lt;br /&gt;
+ Fax: +49 123 456790&lt;br /&gt;
+ E-Mail: info@example.com
+ &lt;/p&gt;
+ &lt;div class="btn-group"&gt;
+ &lt;a class="btn" href="tel:+49123456789" aria-label="Anrufen"&gt;&lt;i&gt;phone&lt;/i&gt; Anrufen&lt;/a&gt;
+ &lt;a class="btn" href="mailto:info@example.com" aria-label="E-Mail schreiben"&gt;&lt;i&gt;email&lt;/i&gt; E-Mail schreiben&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+ &lt;h2&gt;Adresse&lt;/h2&gt;
+ &lt;p&gt;
+ Schönburg 4a&lt;br /&gt;
+ 94060 Pocking
+ &lt;/p&gt;
+ &lt;a class="btn" target="_blank" href="https://www.google.com/maps?q=Freiwillige+Feuerwehr+Schönburg,+Schönburg+4a,+94060+Pocking" aria-label="Anfahrt planen"&gt;&lt;i&gt;location&lt;/i&gt; Anfahrt planen&lt;/a&gt;
+&lt;/section&gt;</description></item></channel></rss>

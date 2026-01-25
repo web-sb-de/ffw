@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://192.168.1.16:1313//sitemap.xml
+Sitemap: https://ffw.web-sb.de//sitemap.xml

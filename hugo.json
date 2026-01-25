@@ -1,10 +1,13 @@
 {
   "baseURL": "https://ffw.web-sb.de",
   "languageCode": "de-de",
-  "title": "Freiwillige Feuerwehr Schönburg Pocking",
+  "title": "Freiwillige Feuerwehr Schönburg e.V.",
   "minify": true,
   "enableRobotsTXT": true,
   "disableKinds": ["taxonomy", "term"],
+  "frontmatter": {
+    "lastmod": ["lastmod", ":fileModTime", ":default"]
+  },
   "markup": {
     "goldmark": {
       "extensions": {
@@ -16,21 +19,20 @@
       }
     }
   },
-  "frontmatter": {
-    "lastmod": ["lastmod", ":fileModTime", ":default"]
-  },
   "params": {
     "logo": "/logo.webp",
     "icon": "/icon.webp",
     "cover": "/cover.webp",
     "colors": {
-      "background": "#ffffff",
+      "bg": "#ffffff",
       "text": "#000000",
-      "surface": "#fff3f5",
-      "element_background": "#d32f2f",
-      "element_text": "#ffffff"
+      "surface": "#1A3A5B11",
+      "btn": "#E52322",
+      "btn_text": "#ffffff",
+      "btn_tonal": "#1A3A5B11",
+      "btn_tonal_text": "#0000000"
     },
-    "description": "Freiwillige Feuerwehr Schönburg - Ihr zuverlässiger Partner für Rettung und Brandschutz in der Region.",
+    "description": "Freiwillige Feuerwehr Schönburg e.V. - Retten - Löschen - Bergen - Schützen",
     "author": "Freiwillige Feuerwehr Schönburg e.V.",
     "seo": {
       "keywords": "Feuerwehr, Schönburg, Pocking, Rettung, Brandschutz, Notfall, Feuerwehr Bayern",
@@ -38,8 +40,8 @@
       "google_site_verification": ""
     },
     "geo": {
-      "latitude": "48.3847932",
-      "longitude": "13.2620256",
+      "latitude": "48.38482438531421",
+      "longitude": "13.264583920849566",
       "region": "BY",
       "placename": "Pocking"
     },
@@ -62,7 +64,7 @@
   "module": {
     "imports": [
       {
-        "path": "/Users/sbbrnnr/Documents/software/hugo-web-sb"
+        "path": "/Users/sbbrnnr/Documents/software/theme"
       }
     ]
   }
