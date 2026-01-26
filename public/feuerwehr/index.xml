@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Feuerwehr on Freiwillige Feuerwehr Schönburg e.V.</title><link>https://ffw.web-sb.de/feuerwehr/</link><description>Recent content in Feuerwehr on Freiwillige Feuerwehr Schönburg e.V.</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://ffw.web-sb.de/feuerwehr/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktive Mannschaft</title><link>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</guid><description/></item><item><title>Jugend</title><link>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</guid><description>&lt;section&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Feuerwehr on Freiwillige Feuerwehr Schönburg e.V.</title><link>https://ffw.web-sb.de/feuerwehr/</link><description>Recent content in Feuerwehr on Freiwillige Feuerwehr Schönburg e.V.</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://ffw.web-sb.de/feuerwehr/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktive Mannschaft</title><link>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/aktive-mannschaft/</guid><description>&lt;section&gt;
+ &lt;div class="grid grid-lg"&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;img class="img-gallery" src="cover.webp" width="1000" alt="Aktive Mannschaft" title="Aktive Mannschaft" /&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item"&gt;
+ &lt;h1&gt;Aktive Mannschaft&lt;/h1&gt;
+ &lt;p&gt;Die aktive Mannschaft besteht aus erwachsenen Mitgliedern ab 16 Jahren und ist für Einsätze, Übungen und die Sicherheit der Gemeinde verantwortlich.&lt;/p&gt;
+ &lt;p&gt;Übungen finden wöchentlich donnerstags abends statt.&lt;/p&gt;
+ &lt;a class="btn" href="https://ffw.web-sb.de/infos/mitgliedschaft" aria-label="Mitglied werden" title="Mitglied werden"&gt;&lt;i&gt;person_add_alt&lt;/i&gt;Mitglied werden&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Ab welchem Alter kann man in der aktiven Mannschaft mitmachen?&lt;/summary&gt;
+ &lt;p&gt;Ab 16 Jahren, nach erfolgreicher Ausbildung.&lt;/p&gt;
+ &lt;/details&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Was sind die Aufgaben der aktiven Mannschaft?&lt;/summary&gt;
+ &lt;p&gt;Wir kümmern uns um Brandbekämpfung, Rettungseinsätze, technische Hilfe und präventive Maßnahmen.&lt;/p&gt;</description></item><item><title>Jugend</title><link>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/feuerwehr/jugendfeuerwehr/</guid><description>&lt;section&gt;
  &lt;div class="grid grid-lg"&gt;
  &lt;div class="grid-item"&gt;
  &lt;img src="cover.webp" alt="Jugendfeuerwehr" title="Jugendfeuerwehr" class="img-gallery" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Jugendfeuerwehr&lt;/h1&gt;
- 
+ &lt;p&gt;Die Jugendfeuerwehr ist für Jugendliche im Alter von 10 bis 16 Jahren und bietet praxisnahe Ausbildung zur Vorbereitung auf die aktive Mannschaft.&lt;/p&gt;
+ &lt;p&gt;Übungen finden wöchentlich mittwochs abends statt.&lt;/p&gt;
+ &lt;a class="btn" href="https://ffw.web-sb.de/infos/mitgliedschaft" aria-label="Mitglied werden" title="Mitglied werden"&gt;&lt;i&gt;person_add_alt&lt;/i&gt;Mitglied werden&lt;/a&gt;
  &lt;/div&gt;
-&lt;/section&gt;</description></item></channel></rss>
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+ &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Ab welchem Alter kann man in der Jugendfeuerwehr mitmachen?&lt;/summary&gt;
+ &lt;p&gt;Ab 10 Jahren bis 16 Jahren.&lt;/p&gt;
+ &lt;/details&gt;
+ &lt;details&gt;
+ &lt;summary&gt;Was lernen wir in der Jugendfeuerwehr?&lt;/summary&gt;
+ &lt;p&gt;Wir lernen Grundlagen der Feuerwehrarbeit, Erste Hilfe, Knotenkunde und Teamarbeit durch praktische Übungen.&lt;/p&gt;</description></item></channel></rss>
