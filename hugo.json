@@ -25,12 +25,12 @@
     "cover": "/cover.webp",
     "colors": {
       "bg": "#ffffff",
-      "text": "#000000",
+      "text": "#1A3A5B",
       "surface": "#1A3A5B11",
       "btn": "#E52322",
       "btn_text": "#ffffff",
       "btn_tonal": "#1A3A5B11",
-      "btn_tonal_text": "#0000000"
+      "btn_tonal_text": "#1A3A5B"
     },
     "description": "Freiwillige Feuerwehr Schönburg e.V. - Retten - Löschen - Bergen - Schützen",
     "author": "Freiwillige Feuerwehr Schönburg e.V.",
