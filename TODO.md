@@ -1,24 +1,32 @@
-# Bilder
+# Allgemeines
 
-- Icon habe ich mit e.V. 1:1 übernommen
-- Logo (Icon + Text) habe ich ergänzt
-- Titelbild (generisches Bild, ohne Personen das auch in 5 Jahren noch passend ist)
-
-## Angaben zur Webseite
-
-- Domainname (feuerwehr-schoenburg.de)
+- Domain (feuerwehr-schoenburg.de)
 - Titel (Freiwillige Feuerwehr Schönburg mit oder ohne e.V.)
 - Leitsatz
+- Emailserver?
 
-## Rechtliche Angaben
+# Seiten
 
-### Datenschutz
+## /
 
-- pers. bez. Daten bei Kontaktaufnahme?
+- Titelbild (generisches Bild, ohne Personen das auch in 5 Jahren noch passend ist)
 
-### Impressum und Kontakt
+## /kontakt
 
-- Anschrift vom Verein (Vereinshaus oder Vorstand)
-- Verantwortlicher
-- Telefonnummer?
-- Email
+- Adresse, Email, Telefon
+
+## /impressum
+
+- Adresse und Verantwortlicher
+
+## /datenschutz
+
+-
+
+## /info
+
+### /vorstandschaft
+
+### /mitgliedschaft
+
+- Antragsformulare
