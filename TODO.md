@@ -1,9 +1,9 @@
 # Allgemeines
 
-- Domain (feuerwehr-schoenburg.de)
-- Titel (Freiwillige Feuerwehr Schönburg mit oder ohne e.V.)
-- Leitsatz
-- Emailserver?
+- Domain (ffw-schoenburg.de wäre verfügbar)
+- Titel (Freiwillige Feuerwehr Schönburg, wann mit wann ohne e.V.)
+- Leitsatz (Retten - Löschen - Bergen - Schützen)
+- info@... Email gewollt oder Email von Kreisverband
 
 # Seiten
 

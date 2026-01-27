@@ -80,11 +80,33 @@
 &lt;/section&gt;
 
 &lt;section&gt;
+ &lt;h2&gt;Betreuer&lt;/h2&gt;
+ &lt;div class="grid grid-sm grid-border"&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Magdalena Löw&lt;/h3&gt;
+ &lt;p&gt;Betreuer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Marie Brunner&lt;/h3&gt;
+ &lt;p&gt;Betreuer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Markus Brunner&lt;/h3&gt;
+ &lt;p&gt;Betreuer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Elke Dandl&lt;/h3&gt;
+ &lt;p&gt;Betreuer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="grid-item" style="justify-content: start"&gt;
+ &lt;h3&gt;Franziska Rutzinger&lt;/h3&gt;
+ &lt;p&gt;Betreuer&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
  &lt;h2&gt;Häufige Fragen&lt;/h2&gt;
  &lt;details&gt;
  &lt;summary&gt;Seit wann gibt es die Kinderfeuerwehr?&lt;/summary&gt;
- &lt;p&gt;Die Kinderfeuerwehr gibt es seit 2015.&lt;/p&gt;
- &lt;/details&gt;
- &lt;details&gt;
- &lt;summary&gt;Was machen wir in der Kinderfeuerwehr?&lt;/summary&gt;
- &lt;p&gt;Wir bieten spielerische Aktivitäten wie Übungen mit kleinen Löschgeräten, Spiele zur Teamarbeit und Besuche bei der Feuerwehr.&lt;/p&gt;</description></item></channel></rss>
+ &lt;p&gt;Die Kinderfeuerwehr gibt es seit 2015.&lt;/p&gt;</description></item></channel></rss>
