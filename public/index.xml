@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Start on Freiwillige Feuerwehr Schönburg e.V.</title><link>https://ffw.web-sb.de/</link><description>Recent content in Start on Freiwillige Feuerwehr Schönburg e.V.</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://ffw.web-sb.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Termine</title><link>https://ffw.web-sb.de/aktuelles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/aktuelles/</guid><description>&lt;section&gt;
  &lt;h1&gt;Termine&lt;/h1&gt;
- &lt;p&gt;Hier finden Sie alle wichtigen Termine rund um unsere Feuerwehr.&lt;/p&gt;
+ &lt;p&gt;Hier findest du alle wichtigen Termine rund um unsere Feuerwehr.&lt;/p&gt;
  &lt;h3&gt;Übungskalender Mitglieder&lt;/h3&gt;
  &lt;a href="https://workspace.google.com/intl/de/products/calendar/" target="_blank" class="btn" aria-label="Kalender" title="Kalender"&gt;&lt;i&gt;calendar&lt;/i&gt; Kalender&lt;/a&gt;
 &lt;/section&gt;
@@ -156,7 +156,7 @@
  &lt;div class="grid-item"&gt;
  &lt;h1&gt;Mitglied&amp;shy;schaft&lt;/h1&gt;
  &lt;p&gt;Interessiert an unserem Verein?&lt;/p&gt;
- &lt;p&gt;Füllen Sie den Aufnahmeantrag aus und senden Sie ihn an die Vorstandschaft.&lt;/p&gt;
+ &lt;p&gt;Fülle den Aufnahmeantrag aus und sende ihn an die Vorstandschaft.&lt;/p&gt;
  &lt;h2&gt;Anträge&lt;/h2&gt;
  &lt;div class="btn-group"&gt;
  &lt;a href="https://ffw.web-sb.de/download.pdf" target="_blank" class="btn" aria-label="Aktive Mannschaft" title="Aktive Mannschaft"&gt;&lt;i&gt;download&lt;/i&gt;Aktive Mannschaft&lt;/a&gt;
@@ -219,8 +219,8 @@
 &lt;/section&gt;</description></item><item><title>Chronik</title><link>https://ffw.web-sb.de/infos/chronik/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ffw.web-sb.de/infos/chronik/</guid><description>&lt;section&gt;
  &lt;h1&gt;Chronik&lt;/h1&gt;
  &lt;p&gt;
- Unsere Chronik dokumentiert die bedeutenden Ereignisse und Meilensteine in der Geschichte unserer Feuerwehr. Von der Gründung bis zu den neuesten Entwicklungen – erfahren Sie mehr über die
- engagierten Menschen und die wichtigen Momente, die unsere Feuerwehr geprägt haben.
+ Unsere Chronik dokumentiert die bedeutenden Ereignisse und Meilensteine in der Geschichte unserer Feuerwehr. Von der Gründung bis zu den neuesten Entwicklungen – erfahre mehr über die engagierten
+ Menschen und die wichtigen Momente, die unsere Feuerwehr geprägt haben.
  &lt;/p&gt;
 &lt;/section&gt;
 &lt;section&gt;
@@ -252,7 +252,7 @@
  &lt;/p&gt;
  &lt;h3&gt;Vertretungsberechtigt und inhaltlich verantwortlich gemäß § 5 TMG und § 55 Abs. 2 RStV&lt;/h3&gt;
  &lt;p&gt;
- Markus Franz Brunner, Vorstand&lt;br /&gt;
+ Markus Brunner, Vorstand&lt;br /&gt;
  Schönburg 4a&lt;br /&gt;
  94060 Pocking
  &lt;/p&gt;
@@ -267,7 +267,6 @@
  &lt;h1&gt;Kontakt&lt;/h1&gt;
  &lt;p&gt;
  Telefon: +49 123 456789&lt;br /&gt;
- Fax: +49 123 456790&lt;br /&gt;
  E-Mail: info@example.com
  &lt;/p&gt;
  &lt;div class="btn-group"&gt;
@@ -278,6 +277,7 @@
 &lt;section&gt;
  &lt;h2&gt;Adresse&lt;/h2&gt;
  &lt;p&gt;
+ Freiwillige Feuerwehr Schönburg e.V.&lt;br /&gt;
  Schönburg 4a&lt;br /&gt;
  94060 Pocking
  &lt;/p&gt;
