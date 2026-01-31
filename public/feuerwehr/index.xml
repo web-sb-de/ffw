@@ -46,7 +46,7 @@
  &lt;img src="cover.webp" alt="Jugendfeuerwehr" title="Jugendfeuerwehr" class="img-gallery" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
- &lt;h1&gt;Jugendfeuerwehr&lt;/h1&gt;
+ &lt;h1&gt;Jugendf&amp;shy;euerwehr&lt;/h1&gt;
  &lt;p&gt;Die Jugendfeuerwehr ist für Jugendliche im Alter von 10 bis 16 Jahren und bietet praxisnahe Ausbildung zur Vorbereitung auf die aktive Mannschaft.&lt;/p&gt;
  &lt;p&gt;Übungen finden wöchentlich mittwochs abends statt.&lt;/p&gt;
  &lt;a class="btn" href="https://ffw.web-sb.de/infos/mitgliedschaft" aria-label="Mitglied werden" title="Mitglied werden"&gt;&lt;i&gt;person_add_alt&lt;/i&gt;Mitglied werden&lt;/a&gt;
@@ -68,7 +68,7 @@
  &lt;img class="img-gallery" src="cover.webp" width="1000x" alt="Cover" title="Cover" /&gt;
  &lt;/div&gt;
  &lt;div class="grid-item"&gt;
- &lt;h1&gt;Kinderfeuerwehr&lt;/h1&gt;
+ &lt;h1&gt;Kinderf&amp;shy;euerwehr&lt;/h1&gt;
  &lt;p&gt;Die Kinderfeuerwehr ist für Kinder im Alter von 6 bis 10 Jahren und bietet spielerische Aktivitäten zur Förderung von Teamgeist und Verantwortung.&lt;/p&gt;
  &lt;p&gt;Übungen finden alle zwei Wochen donnerstags abends statt.&lt;/p&gt;
  &lt;div class="btn-group"&gt;

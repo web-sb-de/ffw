@@ -2,7 +2,6 @@
   "baseURL": "https://ffw.web-sb.de",
   "languageCode": "de-de",
   "title": "Freiwillige Feuerwehr Schönburg e.V.",
-  "minify": true,
   "enableRobotsTXT": true,
   "disableKinds": ["taxonomy", "term"],
   "frontmatter": {
